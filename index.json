@@ -75,21 +75,25 @@
   "projects": [
     {
       "id": "1",
+      "image": "",
       "name": "First Portfolio",
       "description": "My first Portfolio built with HTML, CSS and Bootstrap."
     },
     {
       "id": "2",
+      "image": "",
       "name": "E-commerce Site",
       "description": "My first E-commerce site built with HTML, CSS, Bootstrap an Javascript."
     },
     {
       "id": "3",
+      "image": "",
       "name": "Calculator",
       "description": "My very own calculator built with Javascript!"
     },
     {
       "id": "4",
+      "image": "",
       "name": "BMI Calculator",
       "description": "My very own BMI Calculator built with Javascript!"
     }
@@ -143,6 +147,44 @@
       "name": "Abdul-Azeez Kemp",
       "title": "Assistant Lecturer",
       "content": "Nuraan is a wonderful, focused, and creative person, she is a great person to work with. She has the characteristics of a great team player and could be a great team leader when she puts her mind to the position."
+    }
+  ],
+  "hobbies": [
+    {
+      "id": "1",
+      "image": "https://i.postimg.cc/bJwBtJb3/reading.jpg",
+      "title": "Reading",
+      "description": "I thoroughly enjoy reading as it has so many benefits such as improving my memory, increased focus and concetration, and better cognitive function by honing critical thinking skills. It also expands my knowledge and undertsanding of the world and alllows me to ecape, relax and recharge."
+    },
+    {
+      "id": "2",
+      "image": "https://i.postimg.cc/P519G0Tz/painting.jpg",
+      "title": "Painting",
+      "description": "I also enjoy painting as it has several benefits. Painting really healps me improve my concentration and develop my critical thinking skills. It also stimulates and boosts my creative growth and gets really messy sometimes!"
+    },
+    {
+      "id": "3",
+      "image": "https://i.postimg.cc/FKmqhGKt/coding.jpg",
+      "title": "Coding",
+      "description": "Of course! Coding is simply a great skill to have and is currently one of the most in-demand skills across the world.Although it gets really heated at times, the end result is always rewarding and satisfying to see how it looks and runs."
+    },
+    {
+      "id": "4",
+      "image": "https://i.postimg.cc/SKrPR8Xn/surfing.jpg",
+      "title": "Surfing",
+      "description": "Surfing is my favourite sport and hobby as it not only helps keep me fit, but also allows me to relieve any stress or worries. It is truly such a calming, unique and fun experience for me."
+    },
+    {
+      "id": "5",
+      "image": "https://i.postimg.cc/5yjTZ026/hiking.jpg",
+      "title": "Hiking",
+      "description": "I enjoy going for hikes as it has so many health benefits. Spending quality time in the great outdoors reduces stress and calms anxiety. I really enjoy being out in nature and having a fun time with family."
+    },
+    {
+      "id": "6",
+      "image": "https://i.postimg.cc/gkX1sn77/sewing.jpg",
+      "title": "Sewing",
+      "description": "In my free time I enjoy sewing. This skill helps me develop better self-discipline and problem solving. It is also a wonderful feeling wearing a piece of clothing I cut and sew with my very own hands and it also helps reduce the environmental impact."
     }
   ]
 }
