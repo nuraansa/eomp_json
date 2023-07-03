@@ -1,0 +1,148 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "skill": "HTML",
+      "progress": "0"
+    },
+    {
+      "id": "2",
+      "skill": "CSS",
+      "progress": "0"
+    },
+    {
+      "id": "3",
+      "skill": "Bootstrap",
+      "progress": "0"
+    },
+    {
+      "id": "4",
+      "skill": "Javascript",
+      "progress": "0"
+    },
+    {
+      "id": "5",
+      "skill": "GIT",
+      "progress": "0"
+    },
+    {
+      "id": "6",
+      "skill": "VueJS",
+      "progress": "0"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "year": "2023",
+      "description": "Life Choices Coding Academy"
+    },
+    {
+      "id": "2",
+      "year": "2021",
+      "description": "Higher Certificate in Software Development (Eduvos/Pearson Institute of Higher Education)"
+    },
+    {
+      "id": "3",
+      "year": "2020",
+      "description": "1-year intensive course (Darun-Na’im Institute for Higher Islamic Learning)"
+    },
+    {
+      "id": "4",
+      "year": "2019",
+      "description": "GED/American High School Equivalency Certificate (National Senior Certificate/ High School Equivalency Diploma/ Grade 12)"
+    },
+    {
+      "id": "5",
+      "year": "2019",
+      "description": "Completed Memorisation of the Holy Quraan"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "year": "2018 - current",
+      "place": "Habibati Souq",
+      "description": "Sales Assistant & Assistant Designer"
+    },
+    {
+      "id": "2",
+      "year": "2020-2023",
+      "place": "Online",
+      "description": "Qur’aan Studies Tutor/Teacher"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "First Portfolio",
+      "description": "My first Portfolio built with HTML, CSS and Bootstrap."
+    },
+    {
+      "id": "2",
+      "name": "E-commerce Site",
+      "description": "My first E-commerce site built with HTML, CSS, Bootstrap an Javascript."
+    },
+    {
+      "id": "3",
+      "name": "Calculator",
+      "description": "My very own calculator built with Javascript!"
+    },
+    {
+      "id": "4",
+      "name": "BMI Calculator",
+      "description": "My very own BMI Calculator built with Javascript!"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "image": "",
+      "name": "Oslin",
+      "title": "Lecturer",
+      "content": "Nuraan Samodien is a diligent, creative person with the ability to overcome adversity. She is a great person with the perseverance to achieve what she sets out for. Her character is one of great potential as she is not afraid to fail but rather get back on the horse and try again. Her attention to detail is remarkable as well with the keen sense to time mangement."
+    },
+    {
+      "id": "2",
+      "image": "",
+      "name": "Joel Mukanya",
+      "title": "Lecturer",
+      "content": "Nuraan is very creative, well-behaved, and dedicated. She enjoys working with her peers and works well on her project. She learned HTML, CSS, and Bootstrap."
+    },
+    {
+      "id": "3",
+      "image": "",
+      "name": "Taflynne Peterson",
+      "title": "Classmate",
+      "content": "Nuraan Samodien is a very smart student and excellent coder. She often helps everyone where she can. She understands the concepts well that she is able to explain to the next person in a very simple way. Nuraan goes the extra mile to help her peers. She works very well in a group and communicates cleary."
+    },
+    {
+      "id": "4",
+      "image": "",
+      "name": "Siyamanga Zweni",
+      "title": "Classmate",
+      "content": "Nuraan Samodien is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. She is trustworthy and with no doubt she can ensure that your company goals are being achieved."
+    },
+    {
+      "id": "5",
+      "image": "",
+      "name": "Eighton-Lee Paulse",
+      "title": "Classmate",
+      "content": "Nuraan is a very helpful person. She's always looking to help others when they are struggling and is very passionate about what she does. Her motivation is endless and she is hardworking. I would 100% recommend her."
+    },
+    {
+      "id": "6",
+      "image": "",
+      "name": "Thotyelwa Mpongwana",
+      "title": "Classmate",
+      "content": "Nuraan is a hard working individual, who always finds ways to improve her craft. Having a positive mindset always helps her to tackle her hardships. A truly exceptional woman."
+    },
+    {
+      "id": "7",
+      "image": "",
+      "name": "Abdul-Azeez Kemp",
+      "title": "Assistant Lecturer",
+      "content": "Nuraan is a wonderful, focused, and creative person, she is a great person to work with. She has the characteristics of a great team player and could be a great team leader when she puts her mind to the position."
+    }
+  ]
+}
