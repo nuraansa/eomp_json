@@ -75,75 +75,91 @@
   "projects": [
     {
       "id": "1",
-      "image": "",
+      "image": "https://i.postimg.cc/RhDpwfX1/Screenshot-2023-07-05-121531.png",
       "name": "First Portfolio",
-      "description": "My first Portfolio built with HTML, CSS and Bootstrap."
+      "description": "My first Portfolio built with HTML, CSS and Bootstrap.",
+      "netlify": "https://nuraanportfolio23.netlify.app/",
+      "github": "https://github.com/nuraansa?tab=repositories"
     },
     {
       "id": "2",
-      "image": "",
+      "image": "https://i.postimg.cc/9MXLS1kt/Screenshot-2023-07-05-121354.png",
       "name": "E-commerce Site",
-      "description": "My first E-commerce site built with HTML, CSS, Bootstrap an Javascript."
+      "description": "My first E-commerce site built with HTML, CSS, Bootstrap an Javascript.",
+      "netlify": "https://nuraanjseomp.netlify.app/",
+      "github": "https://github.com/nuraansa?tab=repositories"
     },
     {
       "id": "3",
-      "image": "",
+      "image": "https://i.postimg.cc/fy8npJ5k/Screenshot-2023-07-05-121505.png",
       "name": "Calculator",
-      "description": "My very own calculator built with Javascript!"
+      "description": "My very own calculator built with Javascript!",
+      "netlify": "https://nuraanjscalculator.netlify.app/",
+      "github": "https://github.com/nuraansa?tab=repositories"
     },
     {
       "id": "4",
-      "image": "",
+      "image": "https://i.postimg.cc/3R3qh3kG/Screenshot-2023-07-05-121441.png",
       "name": "BMI Calculator",
-      "description": "My very own BMI Calculator built with Javascript!"
+      "description": "My very own BMI Calculator built with Javascript!",
+      "netlify": "https://nuraanbmicalculator.netlify.app/",
+      "github": "https://github.com/nuraansa?tab=repositories"
+    },
+    {
+      "id": "5",
+      "image": "https://i.postimg.cc/yYxwW6vX/Screenshot-2023-07-05-121417.png",
+      "name": "To-do List",
+      "description": "My very own To-do List built with Javascript!",
+      "netlify": "https://nuraanjstodolist.netlify.app/",
+      "github": "https://github.com/nuraansa?tab=repositories"
     }
   ],
   "testimonials": [
     {
       "id": "1",
-      "image": "",
+      "image": "https://i.postimg.cc/MGHtxtxW/oslin.png",
       "name": "Oslin",
       "title": "Lecturer",
       "content": "Nuraan Samodien is a diligent, creative person with the ability to overcome adversity. She is a great person with the perseverance to achieve what she sets out for. Her character is one of great potential as she is not afraid to fail but rather get back on the horse and try again. Her attention to detail is remarkable as well with the keen sense to time mangement."
     },
     {
       "id": "2",
-      "image": "",
+      "image": "https://i.postimg.cc/V6jKHvmM/joel.png",
       "name": "Joel Mukanya",
       "title": "Lecturer",
       "content": "Nuraan is very creative, well-behaved, and dedicated. She enjoys working with her peers and works well on her project. She learned HTML, CSS, and Bootstrap."
     },
     {
       "id": "3",
-      "image": "",
+      "image": "https://i.postimg.cc/0jKDHHp4/taff.png",
       "name": "Taflynne Peterson",
       "title": "Classmate",
       "content": "Nuraan Samodien is a very smart student and excellent coder. She often helps everyone where she can. She understands the concepts well that she is able to explain to the next person in a very simple way. Nuraan goes the extra mile to help her peers. She works very well in a group and communicates cleary."
     },
     {
       "id": "4",
-      "image": "",
+      "image": "https://i.postimg.cc/P5t2VTRv/siya.png",
       "name": "Siyamanga Zweni",
       "title": "Classmate",
       "content": "Nuraan Samodien is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. She is trustworthy and with no doubt she can ensure that your company goals are being achieved."
     },
     {
       "id": "5",
-      "image": "",
+      "image": "https://i.postimg.cc/3JjtZdnH/eighton.png",
       "name": "Eighton-Lee Paulse",
       "title": "Classmate",
       "content": "Nuraan is a very helpful person. She's always looking to help others when they are struggling and is very passionate about what she does. Her motivation is endless and she is hardworking. I would 100% recommend her."
     },
     {
       "id": "6",
-      "image": "",
+      "image": "https://i.postimg.cc/bv5gvbN1/thotyelwa.png",
       "name": "Thotyelwa Mpongwana",
       "title": "Classmate",
       "content": "Nuraan is a hard working individual, who always finds ways to improve her craft. Having a positive mindset always helps her to tackle her hardships. A truly exceptional woman."
     },
     {
       "id": "7",
-      "image": "",
+      "image": "https://i.postimg.cc/28NHv4dw/abdul.png",
       "name": "Abdul-Azeez Kemp",
       "title": "Assistant Lecturer",
       "content": "Nuraan is a wonderful, focused, and creative person, she is a great person to work with. She has the characteristics of a great team player and could be a great team leader when she puts her mind to the position."
