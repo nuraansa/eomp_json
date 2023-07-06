@@ -3,32 +3,32 @@
     {
       "id": "1",
       "skill": "HTML",
-      "progress": "0"
+      "icon": "fa-brands fa-html5 fa-beat-fade fa-10x"
     },
     {
       "id": "2",
       "skill": "CSS",
-      "progress": "0"
+      "icon": "fa-brands fa-css3-alt fa-beat-fade fa-10x"
     },
     {
       "id": "3",
       "skill": "Bootstrap",
-      "progress": "0"
+      "icon": "fa-brands fa-bootstrap fa-beat-fade fa-10x"
     },
     {
       "id": "4",
       "skill": "Javascript",
-      "progress": "0"
+      "icon": "fa-brands fa-square-js fa-beat-fade fa-10x"
     },
     {
       "id": "5",
       "skill": "GIT",
-      "progress": "0"
+      "icon": "fa-brands fa-git-alt fa-beat-fade fa-10x"
     },
     {
       "id": "6",
       "skill": "VueJS",
-      "progress": "0"
+      "icon": "fa-brands fa-vuejs fa-beat-fade fa-10x"
     }
   ],
   "education": [
@@ -118,7 +118,7 @@
     {
       "id": "1",
       "image": "https://i.postimg.cc/MGHtxtxW/oslin.png",
-      "name": "Oslin",
+      "name": "Oslin Johnson",
       "title": "Lecturer",
       "content": "Nuraan Samodien is a diligent, creative person with the ability to overcome adversity. She is a great person with the perseverance to achieve what she sets out for. Her character is one of great potential as she is not afraid to fail but rather get back on the horse and try again. Her attention to detail is remarkable as well with the keen sense to time mangement."
     },
