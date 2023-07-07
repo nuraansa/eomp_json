@@ -79,7 +79,7 @@
       "name": "First Portfolio",
       "description": "My first Portfolio built with HTML, CSS and Bootstrap.",
       "netlify": "https://nuraanportfolio23.netlify.app/",
-      "github": "https://github.com/nuraansa?tab=repositories"
+      "github": "https://github.com/nuraansa/my_portfolio.git"
     },
     {
       "id": "2",
@@ -87,7 +87,7 @@
       "name": "E-commerce Site",
       "description": "My first E-commerce site built with HTML, CSS, Bootstrap an Javascript.",
       "netlify": "https://nuraanjseomp.netlify.app/",
-      "github": "https://github.com/nuraansa?tab=repositories"
+      "github": "https://github.com/nuraansa/jsEOMP.git"
     },
     {
       "id": "3",
@@ -95,7 +95,7 @@
       "name": "Calculator",
       "description": "My very own calculator built with Javascript!",
       "netlify": "https://nuraanjscalculator.netlify.app/",
-      "github": "https://github.com/nuraansa?tab=repositories"
+      "github": "https://github.com/nuraansa/jsCalculator.git"
     },
     {
       "id": "4",
@@ -103,7 +103,7 @@
       "name": "BMI Calculator",
       "description": "My very own BMI Calculator built with Javascript!",
       "netlify": "https://nuraanbmicalculator.netlify.app/",
-      "github": "https://github.com/nuraansa?tab=repositories"
+      "github": "https://github.com/nuraansa/calculatorBMI.git"
     },
     {
       "id": "5",
@@ -111,7 +111,15 @@
       "name": "To-do List",
       "description": "My very own To-do List built with Javascript!",
       "netlify": "https://nuraanjstodolist.netlify.app/",
-      "github": "https://github.com/nuraansa?tab=repositories"
+      "github": "https://github.com/nuraansa/jsToDoList.git"
+    },
+    {
+      "id": "6",
+      "image": "https://i.postimg.cc/J4dR3k9R/Screenshot-2023-07-05-121629.png",
+      "name": "MSQ Tutoring",
+      "description": "A tutoring website I built with HTML, CSS and Bootstrap!",
+      "netlify": "https://msqtutoring.netlify.app/",
+      "github": "https://github.com/nuraansa/msqTutoring.git"
     }
   ],
   "testimonials": [
@@ -127,21 +135,21 @@
       "image": "https://i.postimg.cc/V6jKHvmM/joel.png",
       "name": "Joel Mukanya",
       "title": "Lecturer",
-      "content": "Nuraan is very creative, well-behaved, and dedicated. She enjoys working with her peers and works well on her project. She learned HTML, CSS, and Bootstrap."
+      "content": "Nuraan is very creative, well-behaved, and dedicated. She enjoys working with her peers and works well on her project. She learned HTML, CSS, Bootstrap, Javascript and Vue."
     },
     {
       "id": "3",
       "image": "https://i.postimg.cc/0jKDHHp4/taff.png",
       "name": "Taflynne Peterson",
       "title": "Classmate",
-      "content": "Nuraan Samodien is a very smart student and excellent coder. She often helps everyone where she can. She understands the concepts well that she is able to explain to the next person in a very simple way. Nuraan goes the extra mile to help her peers. She works very well in a group and communicates cleary."
+      "content": "Nuraan Samodien is a very smart student and excelent coder. She understands the concepts well that she is able to explain to the next person in a very simple way. Nuraan goes the extra mile to help her peers. She works very well in a group and communicates cleary."
     },
     {
       "id": "4",
       "image": "https://i.postimg.cc/P5t2VTRv/siya.png",
       "name": "Siyamanga Zweni",
       "title": "Classmate",
-      "content": "Nuraan Samodien is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. She is trustworthy and with no doubt she can ensure that your company goals are being achieved."
+      "content": "Nuraan Samodien is a highly thought intellectual, who enjoys helping others. She is always positive with great enthusiasm. She is always excited to take on new challenges. She is trustworthy and with no doubt she can ensure that your company goals are being achieved."
     },
     {
       "id": "5",
@@ -182,7 +190,7 @@
       "id": "3",
       "image": "https://i.postimg.cc/FKmqhGKt/coding.jpg",
       "title": "Coding",
-      "description": "Of course! Coding is simply a great skill to have and is currently one of the most in-demand skills across the world.Although it gets really heated at times, the end result is always rewarding and satisfying to see how it looks and runs."
+      "description": "Of course! Coding is simply a great skill to have and is currently one of the most in-demand skills across the world. Although it gets really heated at times, the end result is always rewarding and satisfying to see how it looks and runs."
     },
     {
       "id": "4",
